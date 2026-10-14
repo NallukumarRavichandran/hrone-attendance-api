@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.code-workspace
+email.txt
+PROBLEM_STATEMENT*
+sample_seed.py
+
